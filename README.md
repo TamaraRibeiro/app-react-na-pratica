@@ -14,6 +14,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TailwindCSS
 - JSON Server
 - React Query
+- React Router Dom
+- React Hooks
 - RadixUI
 
 ## 🔖 Layout

@@ -10,13 +10,15 @@ Esse projeto foi desenvolvido durante as aulas de React na Prática da [Rocketse
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- React.js
-- TailwindCSS
 - JSON Server
+- Radix UI
+- React.js
 - React Query
 - React Router Dom
 - React Hooks
-- RadixUI
+- React Hook Form
+- TailwindCSS
+- Zod
 
 ## 🔖 Layout
 
